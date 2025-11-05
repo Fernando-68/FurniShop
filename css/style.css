@@ -1,0 +1,52 @@
+body {
+    margin: 0;
+    font-family: Saira,sans-serif;
+    color: white;
+}
+.sofa {
+    width: 100vw;
+    height: 100vh;
+    position: absolute;
+    z-index: -1;
+}header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 44px 130px;
+}
+
+.FurniShop {
+    margin: 0;
+    padding: 0 110px;
+    font-size: 25px;
+}
+.Home {
+    font-weight: 600;
+}
+.textos {
+    display: flex;
+    align-items: center;
+    gap: 84px;
+    font-size: 20px;
+    flex-direction: row;
+    padding: 0px 144px; 
+}
+main {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 66px;
+    text-align: center;
+}
+.titulo {
+    font-size: 60px;
+    width: 1750px;
+    line-height: 1.3;
+    letter-spacing: 1px;
+}
+.subtitulo {
+    font-size: 30px;
+    line-height: 1.3;
+    letter-spacing: 1px;    
+}
+
